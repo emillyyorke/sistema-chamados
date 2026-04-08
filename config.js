@@ -1,2 +1,2 @@
 // Endereço da API.
-window.API_URL = "http://localhost:8000";
+window.API_URL = "https://sistema-helpdesk-jqfd.onrender.com";
